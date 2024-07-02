@@ -1,0 +1,34 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/1/one.png",
+      "title": "Sliding Cards",
+      "description": "Javascript,CSS,HTML",
+      "url": "https://github.com/IShowTiTsss/Sliding-Cards"
+    },
+    {
+      "cover": "/portfolio/1/two.png",
+      "title": "Self Driving Car",
+      "description": "Javascript, CSS, Neural Network",
+      "url": "https://github.com/IShowTiTsss/Self-Driving-Car"
+    },
+    {
+      "cover": "/portfolio/1/three.png",
+      "title": "Ticketing App",
+      "description": "React, Javascript, CSS, Tailwind, MongoDB",
+      "url": "https://github.com/IShowTiTsss/Ticketing-app"
+    },
+    {
+      "cover": "/portfolio/1/four.png",
+      "title": "Voluime control system using openCV",
+      "description": "Pyhthon, openCV, Mediapipe",
+      "url": "https://github.com/IShowTiTsss/volume_control"
+    },
+    {
+      "cover": "/portfolio/1/five.png",
+      "title": "Hand Tracking and Finger Counting Module ",
+      "description": "Pyhthon, openCV, Mediapipe",
+      "url": "https://github.com/IShowTiTsss/Hand-Tracking/tree/main"
+    }
+  ]
+}
